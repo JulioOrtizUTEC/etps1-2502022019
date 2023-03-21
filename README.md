@@ -20,7 +20,7 @@ Esta rama contiene todos los ejercicios de la guia llamada: **GUIA4 - Activity**
 |----------|----------|
 | |	Ejemplo |
 | Guia4_Ejercicio1| Ejercicio 1|
-| | Ejercicio 2|
+| Guia4_Ejercicio2| Ejercicio 2|
 | Guia4_Ejercicio3|	Ejercicio 3|
 | |	Ejercicio 4|
 | Guia4_Ejercicio5|	Ejercicio 5|
