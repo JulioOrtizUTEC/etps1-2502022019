@@ -17,10 +17,10 @@ Esta rama contiene todos los ejercicios de la guia llamada: **GUIA4 - Activity**
 # Índice
 
 | **Nombre de Proyecto** | **Ejercicio Correspondiente** | **Datos Extras** |
-|----------|----------|
-| |	Ejemplo |
-| Guia4_Ejercicio1| Ejercicio 1|  -|
-| Guia4_Ejercicio2| Ejercicio 2|  -|
-| Guia4_Ejercicio3|	Ejercicio 3|  -|
+|----------|----------|----------|
+| |	Ejemplo | |
+| Guia4_Ejercicio1| Ejercicio 1|  |
+| Guia4_Ejercicio2| Ejercicio 2|  |
+| Guia4_Ejercicio3|	Ejercicio 3|  |
 | Guia4_Ejercicio4|	Ejercicio 4| Para ingresar los datos utilizar espacios para ir dividiendo los numeros|
-| Guia4_Ejercicio5|	Ejercicio 5|  -|
+| Guia4_Ejercicio5|	Ejercicio 5|  |
