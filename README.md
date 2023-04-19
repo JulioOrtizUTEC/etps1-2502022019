@@ -2,7 +2,7 @@
 #### Estudiante: Julio Enmanuel Ortiz Romero
 #### Carnet: 25-0202-2019
 #### Carrera: Ingeniería en Sistemas
-#### Parcial: 02
+#### Parcial: 03
 #### Nombre del repositorio: etps1-2502022019
 
 ***
